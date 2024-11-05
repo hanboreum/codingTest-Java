@@ -1,4 +1,4 @@
-package ch2timecomplexity;
+package part1.ch2timecomplexity;
 
 import java.util.Scanner;
 

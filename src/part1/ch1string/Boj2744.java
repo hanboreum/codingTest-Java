@@ -1,4 +1,4 @@
-package ch1string;
+package part1.ch1string;
 
 import java.util.Scanner;
 //대소문자 바꾸기
